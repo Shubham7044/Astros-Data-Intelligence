@@ -1,6 +1,6 @@
 🚀 Astros Data Intelligence Platform
-
 Overview
+
 The Astros Data Intelligence Platform is a production-grade data science project that demonstrates how real-world data can be validated, processed, modeled, and interpreted to generate actionable business insights.
 The focus of this project is not only predictive performance, but also data quality, reproducibility, and explainability, which are critical in real organizational environments.
 
@@ -108,7 +108,7 @@ Designing reproducible, production-ready data systems
 
 Future Scope
 
-Hyperparameter tuning and advanced metrics (ROC-AUC, F1)
+Hyperparameter tuning and advanced metrics (ROC-AUC, F1-Score)
 
 API deployment using FastAPI
 
@@ -128,4 +128,4 @@ This project is licensed under the MIT License.
 See the LICENSE
  file for details.
 
-⭐ This repository represents real-world data science practices with emphasis on quality, explainability, and business relevance rather than just model accuracy.
+⭐ This repository represents real-world data science practices with an emphasis on quality, explainability, and business relevance rather than just model accuracy.
