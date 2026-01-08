@@ -1,0 +1,8 @@
+
+## Data Quality Report
+
+### Missing Values (%)
+{'gender': 0.0, 'SeniorCitizen': 0.0, 'Partner': 0.0, 'Dependents': 0.0, 'tenure': 0.0, 'PhoneService': 0.0, 'MultipleLines': 0.0, 'InternetService': 0.0, 'OnlineSecurity': 0.0, 'OnlineBackup': 0.0, 'DeviceProtection': 0.0, 'TechSupport': 0.0, 'StreamingTV': 0.0, 'StreamingMovies': 0.0, 'Contract': 0.0, 'PaperlessBilling': 0.0, 'PaymentMethod': 0.0, 'MonthlyCharges': 0.0, 'TotalCharges': 0.0, 'Churn': 0.0}
+
+### Outlier Count
+{'SeniorCitizen': 1142, 'tenure': 0, 'MonthlyCharges': 0}
